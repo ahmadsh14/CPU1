@@ -1,0 +1,17 @@
+C:\Users\USER\Desktop\CPU\bin\Debug\net6.0\CPU.exe
+C:\Users\USER\Desktop\CPU\bin\Debug\net6.0\CPU.deps.json
+C:\Users\USER\Desktop\CPU\bin\Debug\net6.0\CPU.runtimeconfig.json
+C:\Users\USER\Desktop\CPU\bin\Debug\net6.0\CPU.dll
+C:\Users\USER\Desktop\CPU\bin\Debug\net6.0\CPU.pdb
+C:\Users\USER\Desktop\CPU\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\CPU\obj\Debug\net6.0\CPU.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\CPU\obj\Debug\net6.0\CPU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\CPU\obj\Debug\net6.0\CPU.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\CPU\obj\Debug\net6.0\CPU.AssemblyInfo.cs
+C:\Users\USER\Desktop\CPU\obj\Debug\net6.0\CPU.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\CPU\obj\Debug\net6.0\CPU.csproj.CopyComplete
+C:\Users\USER\Desktop\CPU\obj\Debug\net6.0\CPU.dll
+C:\Users\USER\Desktop\CPU\obj\Debug\net6.0\refint\CPU.dll
+C:\Users\USER\Desktop\CPU\obj\Debug\net6.0\CPU.pdb
+C:\Users\USER\Desktop\CPU\obj\Debug\net6.0\CPU.genruntimeconfig.cache
+C:\Users\USER\Desktop\CPU\obj\Debug\net6.0\ref\CPU.dll

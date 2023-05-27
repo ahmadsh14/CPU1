@@ -1,0 +1,35 @@
+<root>
+  <ProcessorsCount>3</ProcessorsCount>
+  <Tasks>
+    <Task>
+      <id>1</id>
+      <creationTime>7</creationTime>
+      <requestedTime>10</requestedTime>
+      <priority>high</priority>
+    </Task>
+    <Task>
+      <id>2</id>
+      <creationTime>2</creationTime>
+      <requestedTime>5</requestedTime>
+      <priority>low</priority>
+    </Task>
+    <Task>
+      <id>3</id>
+      <creationTime>1</creationTime>
+      <requestedTime>8</requestedTime>
+      <priority>low</priority>
+    </Task>
+    <Task>
+      <id>4</id>
+      <creationTime>4</creationTime>
+      <requestedTime>15</requestedTime>
+      <priority>high</priority>
+    </Task>
+    <Task>
+      <id>5</id>
+      <creationTime>5</creationTime>
+      <requestedTime>7</requestedTime>
+      <priority>high</priority>
+    </Task>
+  </Tasks>
+</root>
